@@ -1,7 +1,7 @@
 ## Web-Design-Challenge
 Web Page Dashboard design and execution
 
-This effort allowed for the development and publication of 7 web pages highlighting our analysis of certain weather data and the Earth'latitude. 
+This effort allowed for the development and publication of 7 web pages highlighting our analysis of certain weather data relative to the Earth's latitude. 
 
 The landing/home page was I starting point for my work. I also made sure each of the pages had an landing link so that browsers could return to the home page at any time. 
 
