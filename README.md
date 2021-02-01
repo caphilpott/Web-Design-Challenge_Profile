@@ -3,7 +3,7 @@ Web Page Dashboard design and execution
 
 This effort allowed for the development and publication of 7 web pages highlighting our previous classwork analyzing certain weather data relative to the Earth's latitude. 
 
-The landing/home page was I starting point for my work. I also made sure each of the pages had an landing link so that browsers could return to the home page at any time. 
+The landing/home page was the starting point for my work. I also made sure each of the pages had an landing link so that browsers could return to the home page at any time. 
 
 HTML, CSS, and Bootstrap were utilized to carry out the assignment. 
 
