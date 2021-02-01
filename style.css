@@ -1,0 +1,94 @@
+.navbar-brand{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    }
+
+.nav-link{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.dropdown-item{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+
+/* found at https://www.w3schools.com/w3css/4/w3.css */
+.w3-sidebar{
+    height:100%;
+    width:300px;
+    background-color:lightblue;
+    position:fixed!important;
+    z-index:1;
+    overflow:auto;}
+
+.w3-bar-block .w3-bar-item{
+    width:100%;display:block;
+    padding:22px;
+    text-align:left;
+    border:none;
+    white-space:normal;
+    float:none;
+    outline:0}
+
+.sidebar_text {
+    background-color:whitesmoke;  
+    font-size: 30px;
+    font-weight:bold;
+    text-align:Left;
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;    
+    }    
+
+.header {
+    background-color:lightgray;  
+    font-size: 30px;
+    font-weight:bold;
+    text-align:Left;
+    padding:10px;
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;    
+    }
+
+.paragraph1 {
+    font-family: 'Times New Roman', Times, serif;   
+    font-size: 20px;
+    padding:10px;         
+    }
+
+.image1 {
+    width: 350px;
+    height:auto;
+    
+    padding:5px; 
+    float:left;        
+    }
+
+.image2 {
+    width: auto;
+    height:auto;
+    outline-style: none;
+    }
+
+.figure {
+    width: auto;
+    height:auto;
+    outline-style: none;
+    }
+    
+    .box {
+    position: float;
+    width: auto;
+    height: auto;
+    background: #2db34a;
+    border: 2px solid black;    
+    }
+
+.desc{
+    text-align:Center;
+    color:blue;
+    font-size: 20px;
+    font-weight:bold;    
+    font-family: 'Times New Roman', Times, serif;     
+}
