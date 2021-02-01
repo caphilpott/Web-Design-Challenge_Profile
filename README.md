@@ -11,7 +11,7 @@ I found this assignment more challenging than some previous as the material is a
 
 I would recommend at least one more class day be spent on web development to add a further depth of understanding to the challenge. 
 
-The side bars and nav bars were trickiest for me as, even with the aid of bootstrap, as fair amount of massaging was required to get the desired look and feel. 
+The side bars and nav bars were trickiest for me as, even with the aid of bootstrap, a fair amount of massaging was required to get the desired look and feel. 
 
 The "gotya's" of this assignment was making sure all links in files pointed to web bases sources. Meaning, no local machine references. That was tricky given that the initial coding and linking referred to local files. 
 
