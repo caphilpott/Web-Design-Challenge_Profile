@@ -25,5 +25,7 @@ All-in-all a solid learning endeavor!
 
 May your skies remain sunny (at least when you're on vacation)
 
+![alt text](https://www.kroger.com/product/images/small/front/0019181735007)
+
 ![alt text](https://www.nasa.gov/sites/default/files/thumbnails/image/ae3_westernhemisphere_geos_2019246_lrg.jpg)
 
